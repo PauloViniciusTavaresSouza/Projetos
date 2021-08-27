@@ -1,0 +1,938 @@
+.body {
+  background: hsl(180, 52%, 96%);
+}
+
+.header {
+  width: 1440px;
+  background: hsl(180, 29%, 50%);
+}
+
+.primeira_fileira {
+  border-radius: 10px;
+  background: #fff;
+  width: 1020px;
+  height: 150px;
+  margin-left: 170px;
+  margin-top: 100px;
+  margin-bottom: 40px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+.borda {
+  float: left;
+  background: hsl(180, 29%, 50%);
+  width: 5px;
+  height: 150px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.phot {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 800px;
+}
+.new {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 3px 10px;
+  background: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: -102px;
+  margin-right: 740px;
+  color: #fff;
+  border-radius: 25px;
+}
+.feat {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 3px 10px;
+  float: right;
+  margin-top: -102px;
+  margin-right: 650px;
+  color: #fff;
+  background: hsl(180, 14%, 20%);
+  border-radius: 25px;
+}
+
+.senior {
+  color: #000;
+  font-size: 20px;
+  margin-top: -60px;
+  margin-right: 642px;
+  float: right;
+  text-decoration: none;
+}
+
+.usa {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.full {
+  float: right;
+  margin-right: 735px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.um_d {
+  float: right;
+  margin-right: 828px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.primeira_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.front,
+.senior_categoria,
+.html_categoria,
+.css_categoria,
+.javascript_categoria,
+.fullstack_categoria,
+.midweigth_categoria,
+.python_categoria,
+.react_categoria,
+.frontend_3,
+.junior_3_categoria,
+.react_3_categoria,
+.sass_3_categoria,
+.javascript_3_categoria,
+.frontend_4,
+.junior_4_categoria,
+.css_4_categoria,
+.javascript_4_categoria,
+.fullstack_categoria_5,
+.midweigth_categoria_5,
+.javascript_5_categoria,
+.sass_4_categoria,
+.ruby_5,
+.backend_6_categoria,
+.junior_6_categoria,
+.ruby_6_categoria,
+.ror_6_categoria,
+.frontend_7,
+.junior_7_categoria,
+.html_7_categoria,
+.sass_7_categoria,
+.javascript_7_categoria,
+.frontend_8,
+.junior_8_categoria,
+.vue_8_categoria,
+.javascript_8_categoria,
+.sass_8_categoria,
+.fullstack_9_categoria,
+.midweigth_9_categoria,
+.javascript_9_categoria,
+.django_9_categoria,
+.python_9_categoria,
+.frontend_10_categoria,
+.junior_10_categoria,
+.react_10_categoria,
+.sass_10_categoria,
+.javascript_10_categoria {
+  float: right;
+  padding: 5px 10px;
+  background: hsl(180, 52%, 96%);
+  color: hsl(180, 29%, 50%);
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
+}
+.front {
+  float: left;
+  margin-left: 725px;
+  margin-top: -120px;
+}
+
+.senior_categoria {
+  float: left;
+  margin-left: 810px;
+  margin-top: -120px;
+}
+
+.html_categoria {
+  float: left;
+  margin-left: 880px;
+  margin-top: -120px;
+}
+.css_categoria {
+  float: left;
+  margin-left: 955px;
+  margin-top: -120px;
+}
+.javascript_categoria {
+  float: left;
+  margin-left: 1010px;
+  margin-top: -120px;
+}
+.segunda_fileira {
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 30px;
+  width: 1020px;
+  height: 150px;
+  margin-top: 10px;
+  margin-left: 170px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+/* SEGUNDA ------------------------------------------------------------------------------------------ */
+
+.segunda_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.manage {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 800px;
+}
+.new2 {
+  font-size: 12px;
+  padding: 3px 10px;
+  background: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: -102px;
+  margin-right: 740px;
+  color: #fff;
+  border-radius: 25px;
+}
+
+.feat2 {
+  font-size: 12px;
+  padding: 3px 10px;
+  float: right;
+  margin-top: -102px;
+  margin-right: 650px;
+  color: #fff;
+  background: hsl(180, 14%, 20%);
+  border-radius: 25px;
+}
+
+.fullstack {
+  color: #000;
+  font-size: 20px;
+  margin-top: -60px;
+  margin-right: 685px;
+  float: right;
+  text-decoration: none;
+}
+
+.remote {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.p_time {
+  float: right;
+  margin-right: 730px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.um_d2 {
+  float: right;
+  margin-right: 815px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.fullstack_categoria {
+  float: left;
+  margin-left: 790px;
+  margin-top: -80px;
+}
+.midweigth_categoria {
+  float: left;
+  margin-left: 875px;
+  margin-top: -80px;
+}
+.python_categoria {
+  float: left;
+  margin-left: 970px;
+  margin-top: -80px;
+}
+.react_categoria {
+  float: left;
+  margin-left: 1040px;
+  margin-top: -80px;
+}
+
+/*  Terceira ---------------------------------------------------------------------------------------*/
+
+.terceira_fileira {
+  width: 1020px;
+  height: 150px;
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 30px;
+  margin-left: 170px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+.terceira_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.new3 {
+  font-size: 12px;
+  padding: 3px 10px;
+  background: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: -102px;
+  margin-right: 740px;
+  color: #fff;
+  border-radius: 25px;
+}
+.account {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 800px;
+}
+
+.junior_3 {
+  color: #000;
+  font-size: 20px;
+  margin-top: -66px;
+  margin-right: 633px;
+  float: right;
+  text-decoration: none;
+}
+
+.d3_ago {
+  float: right;
+  margin-right: 815px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.p_time_3 {
+  float: right;
+  margin-right: 730px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.usa_3 {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.frontend_3 {
+  float: left;
+  margin-left: 735px;
+  margin-top: -80px;
+}
+.junior_3_categoria {
+  float: left;
+  margin-left: 820px;
+  margin-top: -80px;
+}
+.react_3_categoria {
+  float: left;
+  margin-left: 890px;
+  margin-top: -80px;
+}
+.sass_3_categoria {
+  float: left;
+  margin-left: 955px;
+  margin-top: -80px;
+}
+.javascript_3_categoria {
+  float: left;
+  margin-left: 1010px;
+  margin-top: -80px;
+}
+
+/*Quarto ---------------------------------------------------------------------------------------------*/
+
+.quarta_fileira {
+  width: 1020px;
+  height: 150px;
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 30px;
+  margin-left: 170px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+.quarta_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.myhome {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 800px;
+}
+
+.junior_4 {
+  color: #000;
+  font-size: 20px;
+  margin-top: -66px;
+  margin-right: 638px;
+  float: right;
+  text-decoration: none;
+}
+
+.d4_ago {
+  float: right;
+  margin-right: 821px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.contract_4 {
+  float: right;
+  margin-right: 730px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.usa_4 {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.frontend_4 {
+  float: left;
+  margin-left: 805px;
+  margin-top: -80px;
+}
+.junior_4_categoria {
+  float: left;
+  margin-left: 890px;
+  margin-top: -80px;
+}
+.css_4_categoria {
+  float: left;
+  margin-left: 960px;
+  margin-top: -80px;
+}
+.javascript_4_categoria {
+  float: left;
+  margin-left: 1010px;
+  margin-top: -80px;
+}
+
+/* quinta ----------------------------------------------------------------------------------------------*/
+
+.quinta_fileira {
+  width: 1020px;
+  height: 150px;
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 30px;
+  margin-left: 170px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+.quinta_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.loop_studios_5 {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 780px;
+}
+
+.software_5 {
+  color: #000;
+  font-size: 20px;
+  margin-top: -66px;
+  margin-right: 706px;
+  float: right;
+  text-decoration: none;
+}
+
+.w1_ago_5 {
+  float: right;
+  margin-right: 820px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.worldwide_5 {
+  float: right;
+  margin-right: 730px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.f_time_5 {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.fullstack_categoria_5 {
+  float: left;
+  margin-left: 710px;
+  margin-top: -80px;
+}
+.midweigth_categoria_5 {
+  float: left;
+  margin-left: 795px;
+  margin-top: -80px;
+}
+.javascript_5_categoria {
+  float: left;
+  margin-left: 890px;
+  margin-top: -80px;
+}
+.sass_4_categoria {
+  float: left;
+  margin-left: 985px;
+  margin-top: -80px;
+}
+.ruby_5 {
+  float: left;
+  margin-left: 1040px;
+  margin-top: -80px;
+}
+
+/*sexta fileira-----------------------------------------------------------------------------------------*/
+
+.sexta_fileira {
+  width: 1020px;
+  height: 150px;
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 30px;
+  margin-left: 170px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+.sexta_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.faceit_6 {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 827px;
+}
+
+.junior_6 {
+  color: #000;
+  font-size: 20px;
+  margin-top: -66px;
+  margin-right: 650px;
+  float: right;
+  text-decoration: none;
+}
+
+.d2_ago_6 {
+  float: right;
+  margin-right: 832px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.uk_olny {
+  float: right;
+  margin-right: 740px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.f_time_6 {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.backend_6_categoria {
+  float: left;
+  margin-left: 835px;
+  margin-top: -80px;
+}
+.junior_6_categoria {
+  float: left;
+  margin-left: 917px;
+  margin-top: -80px;
+}
+.ruby_6_categoria {
+  float: left;
+  margin-left: 987px;
+  margin-top: -80px;
+}
+.ror_6_categoria {
+  float: left;
+  margin-left: 1050px;
+  margin-top: -80px;
+}
+
+/*setima fileira-----------------------------------------------------------------------------------------*/
+
+.setima_fileira {
+  width: 1020px;
+  height: 150px;
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 30px;
+  margin-left: 170px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+.setima_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.shortly_7 {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 827px;
+}
+
+.junior_7 {
+  color: #000;
+  font-size: 20px;
+  margin-top: -66px;
+  margin-right: 730px;
+  float: right;
+  text-decoration: none;
+}
+
+.d2_ago_7 {
+  float: right;
+  margin-right: 832px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.worldwide_7 {
+  float: right;
+  margin-right: 740px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.f_time_7 {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.frontend_7 {
+  float: left;
+  margin-left: 725px;
+  margin-top: -80px;
+}
+.junior_7_categoria {
+  float: left;
+  margin-left: 810px;
+  margin-top: -80px;
+}
+.html_7_categoria {
+  float: left;
+  margin-left: 880px;
+  margin-top: -80px;
+}
+.sass_7_categoria {
+  float: left;
+  margin-left: 955px;
+  margin-top: -80px;
+}
+
+.javascript_7_categoria {
+  float: left;
+  margin-left: 1010px;
+  margin-top: -80px;
+}
+
+/*oitava fileira-----------------------------------------------------------------------------------------*/
+
+.oitava_fileira {
+  width: 1020px;
+  height: 150px;
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 30px;
+  margin-left: 170px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+.oitava_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.insure_8 {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 827px;
+}
+
+.junior_8 {
+  color: #000;
+  font-size: 20px;
+  margin-top: -66px;
+  margin-right: 648px;
+  float: right;
+  text-decoration: none;
+}
+
+.w2_ago_8 {
+  float: right;
+  margin-right: 828px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.usa_8 {
+  float: right;
+  margin-right: 740px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.f_time_8 {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.frontend_8 {
+  float: left;
+  margin-left: 745px;
+  margin-top: -80px;
+}
+.junior_8_categoria {
+  float: left;
+  margin-left: 830px;
+  margin-top: -80px;
+}
+.vue_8_categoria {
+  float: left;
+  margin-left: 900px;
+  margin-top: -80px;
+}
+.javascript_8_categoria {
+  float: left;
+  margin-left: 955px;
+  margin-top: -80px;
+}
+.sass_8_categoria {
+  float: left;
+  margin-left: 1050px;
+  margin-top: -80px;
+}
+
+/*nona fileira-----------------------------------------------------------------------------------------*/
+
+.nona_fileira {
+  width: 1020px;
+  height: 150px;
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 30px;
+  margin-left: 170px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+.nona_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.eyecam-co_9 {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 797px;
+}
+
+.fullstack_9 {
+  color: #000;
+  font-size: 20px;
+  margin-top: -66px;
+  margin-right: 710px;
+  float: right;
+  text-decoration: none;
+}
+
+.w3_ago_9 {
+  float: right;
+  margin-right: 825px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.uk_9 {
+  float: right;
+  margin-right: 740px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.f_time_9 {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.fullstack_9_categoria {
+  float: left;
+  margin-left: 670px;
+  margin-top: -80px;
+}
+.midweigth_9_categoria {
+  float: left;
+  margin-left: 760px;
+  margin-top: -80px;
+}
+.javascript_9_categoria {
+  float: left;
+  margin-left: 857px;
+  margin-top: -80px;
+}
+.django_9_categoria {
+  float: left;
+  margin-left: 955px;
+  margin-top: -80px;
+}
+.python_9_categoria {
+  float: left;
+  margin-left: 1030px;
+  margin-top: -80px;
+}
+
+/*decima fileira-----------------------------------------------------------------------------------------*/
+
+.decima_fileira {
+  width: 1020px;
+  height: 150px;
+  border-radius: 10px;
+  background: #fff;
+  margin-top: 30px;
+  margin-left: 170px;
+  font-size: 14px;
+  box-shadow: 10px 5px 5px rgb(172, 167, 167);
+}
+
+.decima_fileira img {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.the-air-filter-company_10 {
+  color: hsl(180, 29%, 50%);
+  float: right;
+  margin-top: 20px;
+  margin-right: 730px;
+}
+
+.frontend_10 {
+  color: #000;
+  font-size: 20px;
+  margin-top: -66px;
+  margin-right: 750px;
+  float: right;
+  text-decoration: none;
+}
+
+.mo1_ago_10 {
+  float: right;
+  margin-right: 820px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+.worldwide_10 {
+  float: right;
+  margin-right: 740px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.p_time_10 {
+  float: right;
+  margin-right: 650px;
+  margin-top: -30px;
+  font-size: 12px;
+  color: hsl(180, 8%, 52%);
+}
+
+.frontend_10_categoria {
+  float: left;
+  margin-left: 740px;
+  margin-top: -80px;
+}
+.junior_10_categoria {
+  float: left;
+  margin-left: 825px;
+  margin-top: -80px;
+}
+.react_10_categoria {
+  float: left;
+  margin-left: 895px;
+  margin-top: -80px;
+}
+.sass_10_categoria {
+  float: left;
+  margin-left: 955px;
+  margin-top: -80px;
+}
+.javascript_10_categoria {
+  float: left;
+  margin-left: 1010px;
+  margin-top: -80px;
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <title>Logo Daora</title>
+  <link rel="stylesheet" href="CSS/stylee.css">
+
+</head>
+
+
+<body>
+
+  <header class="header">
+
+    <img class="logo" src="img/logo_daora.png" alt="Logo Daora">
+    <nav>
+      <ul class="logo_categorias">
+        <li><a href="produtos.html">Produtos</a> </li>
+        <li><a href="lojas.html">Lojas</a> </li>
+        <li><a href="entrega.html">Entrega</a> </li>
+        <li><a href="cadastro.html">Cadastro</a> </li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="inputs">
+    <form>
+      <h2 class="pagina">Cadastro</h2>
+
+      <input class="n_produto type=" text name="name" placeholder="Nome do Produto">
+      <input class="c_produto type=" text name="name" placeholder="Categoria do Produto">
+
+
+      <!-- input Quantidade -->
+      <label Class="qualidade_qualidade" for="quantity">Quantidade</label>
+      <div class="slidecontainer">
+        <input type="range" min="1" max="150" value="50" class="slider" id="myRange">
+      </div>
+
+      <!-- input Sim ou  não -->
+      <div class="sim_nao">
+        <div>
+          <label for="quantity">Entrega Imediata:</label>
+        </div>
+        <input type="radio" id="Sim" name="gender" value="Sim">
+        <label for="Sim">Sim</label><br>
+        <input class="nao" type="radio" id="Nao" name="gender" value="Nao">
+        <label for="Nao">Não</label><br>
+      </div>
+
+
+      <!-- input COR -->
+      <div class="cor_tag">
+        <select id="cor" name="cor">
+          <option value="cores">Cor</option>
+          <option value="azul">Azul</option>
+          <option value="amarelo">Amarelo</option>
+          <option value="verde">Verde</option>
+          <option value="laranja">Laranja</option>
+        </select>
+      </div>
+
+
+
+    </form>
+
+  </section>
+
+</body>

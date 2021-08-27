@@ -1,0 +1,971 @@
+/*  Estilo  para tablet*/
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+}
+
+/* final do  estilo  para tablets  */
+/* Estilo  para Smartphone */
+
+@media only screen and (max-width: 788px) {
+  .primeira_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .primeira_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .borda {
+    float: left;
+    background: hsl(180, 29%, 50%);
+    width: 5px;
+    height: 300px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  .phot {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 5px;
+    margin-right: 265px;
+    font-weight: bold;
+  }
+  .new {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px 10px;
+    background: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: -21px;
+    margin-right: 180px;
+    color: #fff;
+    border-radius: 25px;
+  }
+  .feat {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px 10px;
+    float: right;
+    margin-top: -24px;
+    margin-right: 60px;
+    color: #fff;
+    background: hsl(180, 14%, 20%);
+    border-radius: 25px;
+  }
+
+  .senior {
+    background: none;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-right: 115px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .usa {
+    float: right;
+    margin-right: 60px;
+    margin-top: -20px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+  .full {
+    float: right;
+    margin-right: 180px;
+    margin-top: -20px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+  .um_d {
+    float: right;
+    margin-right: 300px;
+    margin-top: 16px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .front {
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: -170px;
+  }
+
+  .senior_categoria {
+    font-size: 19px;
+    margin-left: 170px;
+    margin-top: -170px;
+  }
+
+  .html_categoria {
+    font-size: 19px;
+    margin-left: 270px;
+    margin-top: -170px;
+  }
+  .css_categoria {
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: -120px;
+  }
+  .javascript_categoria {
+    font-size: 19px;
+    margin-left: 130px;
+    margin-top: -120px;
+  }
+
+  /* SEGUNDA ------------------------------------------------------------------------------------------ */
+
+  .segunda_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .segunda_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .borda {
+    float: left;
+    background: hsl(180, 29%, 50%);
+    width: 5px;
+    height: 300px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  .manage {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 5px;
+    margin-right: 295px;
+    font-weight: bold;
+  }
+  .new2 {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px 10px;
+    background: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: -21px;
+    margin-right: 210px;
+    color: #fff;
+    border-radius: 25px;
+  }
+  .feat2 {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px 10px;
+    float: right;
+    margin-top: -24px;
+    margin-right: 95px;
+    color: #fff;
+    background: hsl(180, 14%, 20%);
+    border-radius: 25px;
+  }
+
+  .fullstack {
+    background: none;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-right: 185px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .remote {
+    float: right;
+    margin-right: 70px;
+    margin-top: -20px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+  .p_time {
+    float: right;
+    margin-right: 180px;
+    margin-top: -20px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+  .um_d2 {
+    float: right;
+    margin-right: 305px;
+    margin-top: 16px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .fullstack_categoria {
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: -175px;
+  }
+  .midweigth_categoria {
+    font-size: 19px;
+    margin-left: 165px;
+    margin-top: -175px;
+  }
+  .python_categoria {
+    font-size: 19px;
+    margin-left: 290px;
+    margin-top: -175px;
+  }
+  .react_categoria {
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: -120px;
+  }
+
+  /*Terceira --------------------------------------------------------------------------------------------------------------------*/
+
+  .terceira_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .terceira_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .account {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 5px;
+    margin-right: 295px;
+    font-weight: bold;
+  }
+  .new3 {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px 10px;
+    background: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: -21px;
+    margin-right: 210px;
+    color: #fff;
+    border-radius: 25px;
+  }
+
+  .junior_3 {
+    background: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-right: 150px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .d3_ago {
+    float: right;
+    margin-right: 310px;
+    margin-top: -24px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .p_time_3 {
+    float: right;
+    margin-right: 50px;
+    margin-top: 28px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .usa_3 {
+    float: right;
+    margin-right: 70px;
+    margin-top: 28px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .frontend_3 {
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: -165px;
+  }
+  .junior_3_categoria {
+    font-size: 19px;
+    margin-left: 175px;
+    margin-top: -165px;
+  }
+  .react_3_categoria {
+    font-size: 19px;
+    margin-left: 270px;
+    margin-top: -165px;
+  }
+  .sass_3_categoria {
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: -105px;
+  }
+  .javascript_3_categoria {
+    font-size: 19px;
+    margin-left: 125px;
+    margin-top: -105px;
+  }
+
+  /*quarta ------------------------------------------------------------------------------------------------------------------*/
+
+  .quarta_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .quarta_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .myhome {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 5px;
+    margin-right: 275px;
+    font-weight: bold;
+  }
+
+  .junior_4 {
+    background: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-right: 135px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .d4_ago {
+    float: right;
+    margin-right: 295px;
+    margin-top: -24px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .contract_4 {
+    float: right;
+    margin-right: 50px;
+    margin-top: 28px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .usa_4 {
+    float: right;
+    margin-right: 70px;
+    margin-top: 28px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .frontend_4 {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -160px;
+  }
+  .junior_4_categoria {
+    font-size: 19px;
+    margin-left: 170px;
+    margin-top: -160px;
+  }
+  .css_4_categoria {
+    font-size: 19px;
+    margin-left: 255px;
+    margin-top: -160px;
+  }
+  .javascript_4_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -105px;
+  }
+
+  /*Quinta ------------------------------------------------------------------------------------------------------------------*/
+
+  .quinta_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .quinta_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .loop_studios_5 {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 5px;
+    margin-right: 250px;
+    font-weight: bold;
+  }
+
+  .software_5 {
+    background: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-right: 210px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .w1_ago_5 {
+    float: right;
+    margin-right: 300px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .worldwide_5 {
+    float: right;
+    margin-right: 20px;
+    margin-top: 22px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .f_time_5 {
+    float: right;
+    margin-right: 70px;
+    margin-top: 20px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .fullstack_categoria_5 {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -165px;
+  }
+  .midweigth_categoria_5 {
+    font-size: 19px;
+    margin-left: 175px;
+    margin-top: -165px;
+  }
+  .javascript_5_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -105px;
+  }
+  .sass_4_categoria {
+    font-size: 19px;
+    margin-left: 180px;
+    margin-top: -105px;
+  }
+  .ruby_5 {
+    font-size: 19px;
+    margin-left: 250px;
+    margin-top: -105px;
+  }
+
+  /*sexta fileira-----------------------------------------------------------------------------------------*/
+
+  .sexta_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .sexta_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .faceit_6 {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 10px;
+    margin-right: 310px;
+    font-weight: bold;
+  }
+
+  .junior_6 {
+    background: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-right: 150px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .d2_ago_6 {
+    float: right;
+    margin-right: 300px;
+    margin-top: -22px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .uk_olny {
+    float: right;
+    margin-right: 20px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .f_time_6 {
+    float: right;
+    margin-right: 70px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .backend_6_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -165px;
+  }
+  .junior_6_categoria {
+    font-size: 19px;
+    margin-left: 160px;
+    margin-top: -165px;
+  }
+  .ruby_6_categoria {
+    font-size: 19px;
+    margin-left: 250px;
+    margin-top: -165px;
+  }
+  .ror_6_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -105px;
+  }
+
+  /*setima fileira-----------------------------------------------------------------------------------------*/
+
+  .setima_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .setima_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .shortly_7 {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 10px;
+    margin-right: 300px;
+    font-weight: bold;
+  }
+
+  .junior_7 {
+    background: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-right: 220px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .d2_ago_7 {
+    float: right;
+    margin-right: 300px;
+    margin-top: -22px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .worldwide_7 {
+    float: right;
+    margin-right: 60px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .f_time_7 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .frontend_7 {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -155px;
+  }
+  .junior_7_categoria {
+    font-size: 19px;
+    margin-left: 165px;
+    margin-top: -155px;
+  }
+  .html_7_categoria {
+    font-size: 19px;
+    margin-left: 255px;
+    margin-top: -155px;
+  }
+  .sass_7_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -105px;
+  }
+
+  .javascript_7_categoria {
+    font-size: 19px;
+    margin-left: 125px;
+    margin-top: -105px;
+  }
+
+  /*oitava fileira-----------------------------------------------------------------------------------------*/
+
+  .oitava_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .oitava_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .insure_8 {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 10px;
+    margin-right: 300px;
+    font-weight: bold;
+  }
+
+  .junior_8 {
+    background: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-right: 140px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .w2_ago_8 {
+    float: right;
+    margin-right: 300px;
+    margin-top: -22px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .usa_8 {
+    float: right;
+    margin-right: 60px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .f_time_8 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .frontend_8 {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -155px;
+  }
+  .junior_8_categoria {
+    font-size: 19px;
+    margin-left: 165px;
+    margin-top: -155px;
+  }
+  .vue_8_categoria {
+    font-size: 19px;
+    margin-left: 255px;
+    margin-top: -155px;
+  }
+  .javascript_8_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -105px;
+  }
+  .sass_8_categoria {
+    font-size: 19px;
+    margin-left: 175px;
+    margin-top: -105px;
+  }
+
+  /*nona fileira-----------------------------------------------------------------------------------------*/
+
+  .nona_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .nona_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .eyecam-co_9 {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 10px;
+    margin-right: 270px;
+    font-weight: bold;
+  }
+
+  .fullstack_9 {
+    background: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-right: 208px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .w3_ago_9 {
+    float: right;
+    margin-right: 300px;
+    margin-top: -22px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .uk_9 {
+    float: right;
+    margin-right: 60px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .f_time_9 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .fullstack_9_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -165px;
+  }
+  .midweigth_9_categoria {
+    font-size: 19px;
+    margin-left: 165px;
+    margin-top: -165px;
+  }
+  .javascript_9_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -105px;
+  }
+  .django_9_categoria {
+    font-size: 19px;
+    margin-left: 175px;
+    margin-top: -105px;
+  }
+  .python_9_categoria {
+    font-size: 19px;
+    margin-left: 265px;
+    margin-top: -105px;
+  }
+
+  /*decima fileira-----------------------------------------------------------------------------------------*/
+
+  .decima_fileira {
+    border-radius: 10px;
+    background: #fff;
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    box-shadow: 10px 5px 5px rgb(172, 167, 167);
+  }
+
+  .decima_fileira img {
+    margin-top: -50px;
+    margin-left: 20px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .the-air-filter-company_10 {
+    font-size: 18px;
+    color: hsl(180, 29%, 50%);
+    float: right;
+    margin-top: 10px;
+    margin-right: 170px;
+    font-weight: bold;
+  }
+
+  .frontend_10 {
+    background: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-right: 240px;
+    float: right;
+    text-decoration: none;
+  }
+
+  .mo1_ago_10 {
+    float: right;
+    margin-right: 290px;
+    margin-top: -22px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .worldwide_10 {
+    float: right;
+    margin-right: 60px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .p_time_10 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 18px;
+    font-size: 18px;
+    color: hsl(180, 8%, 52%);
+  }
+
+  .frontend_10_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -155px;
+  }
+  .junior_10_categoria {
+    font-size: 19px;
+    margin-left: 165px;
+    margin-top: -155px;
+  }
+  .react_10_categoria {
+    font-size: 19px;
+    margin-left: 255px;
+    margin-top: -155px;
+  }
+  .sass_10_categoria {
+    font-size: 19px;
+    margin-left: 55px;
+    margin-top: -105px;
+  }
+  .javascript_10_categoria {
+    font-size: 19px;
+    margin-left: 125px;
+    margin-top: -105px;
+  }
+} /*final para o  estilo  smartphone*/

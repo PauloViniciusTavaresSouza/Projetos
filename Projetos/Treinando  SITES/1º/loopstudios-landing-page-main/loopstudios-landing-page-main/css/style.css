@@ -1,0 +1,75 @@
+body,
+h1,
+h2,
+h3,
+h4,
+ul,
+li,
+a,
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  list-style: none;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.superinfo-bg {
+  height: 700px;
+  background: url("../images/desktop/image-hero.jpg") no-repeat center;
+  background-size: auto;
+  background-size: cover;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.superinfo-logo {
+  padding: 60px 0;
+}
+.superinfo-bg li {
+  display: inline-block;
+  padding: 10px;
+}
+.superinfo-bg a {
+  color: #fff;
+}
+.titulo {
+  text-transform: uppercase;
+  padding-top: 35px;
+  padding-left: 20px;
+  font-family: "roboto";
+  line-height: 1;
+  text-align: start;
+  font-size: 2.25em;
+  width: 600px;
+  height: 300px;
+  border: 2px solid #fff;
+  color: #fff;
+}
+/*Informação*/
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

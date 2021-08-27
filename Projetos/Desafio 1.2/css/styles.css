@@ -1,0 +1,305 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+ul,
+li,
+a {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  color: #2d314d;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #9e94a1;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+* {
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+
+/*Header*/
+
+.header {
+  height: 120px;
+}
+.menu {
+  max-width: 1260px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 10px;
+  flex-wrap: wrap;
+}
+
+.menu li {
+  font-size: 1.125em;
+  display: inline-block;
+  margin: 0 20px;
+  color: #9698a6;
+  letter-spacing: 1px;
+  flex-wrap: wrap;
+}
+
+.reque-invite-1 {
+  color: #fff;
+  font-size: 1em;
+  border: none;
+  background: #6cd5be;
+  margin-top: -15px;
+  padding: 20px 45px;
+  border-radius: 25px;
+  flex-wrap: wrap;
+}
+
+/* Menu Info -----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.container-menu-info {
+  background: #fafafa;
+  height: 800px;
+}
+
+.container-menu {
+  max-width: 1260px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  height: 600px;
+}
+
+.menu-info {
+  margin: 150px 50px 20px 0;
+  max-width: 400px;
+  height: 600px;
+  flex-wrap: wrap;
+}
+
+.menu-info h1 {
+  font-size: 3em;
+  letter-spacing: 2px;
+  flex-wrap: wrap;
+}
+.menu-info p {
+  padding: 20px 0;
+  color: #9698a6;
+  font-size: 1em;
+  letter-spacing: 1px;
+  line-height: 1.5em;
+}
+
+.reque-invite-2 {
+  color: #fff;
+  font-size: 1em;
+  border: none;
+  background: #6cd5be;
+  margin-top: -15px;
+  padding: 20px 45px;
+  border-radius: 25px;
+  margin-top: 30px;
+}
+
+.menu-img {
+  margin: 0 50px;
+  z-index: 1;
+  top: -30px;
+}
+
+.bg-imagem {
+  width: 700px;
+}
+
+.bg-z-index {
+  position: relative;
+  top: -800px;
+  z-index: -1;
+  width: 1000px;
+}
+
+/*  Why choose Easybank--------------------------------------------------------------------------------------------------------------------------------------------------------  max-width: 1260px;
+  margin: 0 auto; */
+
+.easybank {
+  background: #f3f4f6;
+}
+.container-easybank {
+  max-width: 1260px;
+  margin: 0 auto;
+}
+.container-easybank h2 {
+  font-size: 2em;
+  padding: 80px 0 20px 0;
+  color: #2d314d;
+  letter-spacing: 1px;
+}
+.container-easybank p {
+  width: 600px;
+  letter-spacing: 1px;
+  line-height: 1.5em;
+  padding: 10px 0 40px 0;
+  color: #9698a6;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.sections-banks {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sections-banks-01,
+.sections-banks-02,
+.sections-banks-03,
+.sections-banks-04 {
+  max-width: 300px;
+  margin: 0 10px;
+}
+.sections-banks-01 img,
+.sections-banks-02 img,
+.sections-banks-03 img,
+.sections-banks-04 img {
+  padding-bottom: 30px;
+}
+.sections-banks-01 h3,
+.sections-banks-02 h3,
+.sections-banks-03 h3,
+.sections-banks-04 h3 {
+  font-size: 1.5em;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
+}
+.sections-banks-01 p,
+.sections-banks-02 p,
+.sections-banks-03 p,
+.sections-banks-04 p {
+  width: 300px;
+  padding-bottom: 100px;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.by {
+  padding: 20px;
+  font-size: 0.6em;
+  color: #9698a6;
+}
+.container-articles {
+  background: #fafafa;
+}
+
+.container-articles h4 {
+  max-width: 1260px;
+  font-size: 2.25em;
+  letter-spacing: 1px;
+  color: #2d314d;
+  padding: 100px 0 30px 0;
+  margin: 0 auto;
+}
+
+.sections-articles {
+  max-width: 1260px;
+  margin: 0 auto;
+  display: flex;
+  border-radius: 10px;
+}
+
+.article-01,
+.article-02,
+.article-03,
+.article-04 {
+  max-width: 315px;
+  height: 520px;
+  margin: 0 20px 50px 0;
+  background: #fff;
+}
+.article-01 img,
+.article-02 img,
+.article-03 img,
+.article-04 img {
+  width: 315px;
+  height: 200px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.article-01 h5,
+.article-02 h5,
+.article-03 h5,
+.article-04 h5 {
+  font-size: 1.2em;
+  padding: 20px;
+  letter-spacing: 0.5px;
+  line-height: 1.4em;
+}
+.article-p {
+  color: #9698a6;
+  line-height: 1.4em;
+  letter-spacing: 1px;
+  padding: 20px;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.footer {
+  background: #2d314d;
+}
+.container-footer {
+  max-width: 1260px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.redes-logo img {
+  margin-top: 20px;
+}
+.redes-sociais {
+  display: flex;
+}
+
+.redes-sociais a {
+  margin: 50px 15px 15px 0;
+}
+.nav,
+.segunda-nav {
+  margin-top: 20px;
+}
+.nav li {
+  display: block;
+  padding: 10px 20px;
+}
+
+.segunda-nav li {
+  display: block;
+  padding: 10px 20px;
+}
+
+.footer-btn p {
+  color: #9698a6;
+  margin: 20px 25px;
+}
+
+.reque-invite-3 {
+  color: #fff;
+  font-size: 1em;
+  border: none;
+  background: #6cd5be;
+  margin-top: -15px;
+  padding: 20px 45px;
+  border-radius: 25px;
+  margin: 30px 0 20px 70px;
+}

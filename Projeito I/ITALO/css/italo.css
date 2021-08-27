@@ -1,0 +1,214 @@
+
+/* Header, Imagem do  logo, barra de pesquisa e arsenal*/
+
+.header {
+  margin-top: 90px;
+  margin-left: 27px;
+  margin-right: 40px;
+  width: 1853px;
+  height: 77px;
+  background: #979595 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 39px;
+  opacity: 1;
+}
+.img_logo{
+  top: 109px;
+  left: 95px;
+  width: 361px;
+  height: 40px;
+  background:none;
+  padding-left: 60px;
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+#divBusca{
+  background-color:#E2E2E2;
+  border:solid 1px;
+  border-radius:19px;
+  width:568px;
+  height: 38px;
+  margin-top: -90px;
+  margin-left: 475px;
+}
+
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:15px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:38px;
+  width: 500px
+}
+
+#divBusca img{
+  padding-left:10px;
+  padding-top: 8px;
+}
+  
+.arsenal {
+  background: none;
+  margin-top: -40px;
+  margin-left: 1169px;
+  margin-right: 100px;
+  /*max-width: 1920px;*/
+  padding-top: -150px;
+}
+.arsenal li {
+  display: inline-block;
+  left: 27px;
+  margin-top: 0px;
+  margin-left: 25px;
+  height: 77px;
+}
+
+.arsenal li a {
+  text-align: left;
+  font: normal normal normal 28px/40px MingLiU-ExtB;
+  letter-spacing: 0px;
+  color: #efebeb;
+  opacity: 1;
+}
+
+/* Cartas e seus atributos */
+
+.figurinha{
+  width: 384px;
+  height: 497px;
+  background: #444146 0% 0% no-repeat padding-box;
+  margin-top: 195px;
+  margin-left: 7px;
+  margin-bottom: 221px;
+  box-shadow: 20px -5px 13px #2C2B2B29;
+  border: 1px solid #707070;
+  border-radius: 13px;
+  opacity: 1;
+}
+.figurinha2{
+  width: 384px;
+  height: 497px;
+  float: left;
+  margin-top: -720px;
+  margin-left: 493px;
+  background: #444146 0% 0% no-repeat padding-box;
+  box-shadow: 20px -5px 13px #2C2B2B29;
+  border: 1px solid #707070;
+  border-radius: 13px;
+  opacity: 1;
+}
+.figurinha3{
+  width: 384px;
+  height: 497px;
+  float: left;
+  margin-top: -720px;
+  margin-left: 969px;
+  background: #444146 0% 0% no-repeat padding-box;
+  box-shadow: 20px -5px 13px #2C2B2B29;
+  border: 1px solid #707070;
+  border-radius: 13px;
+  opacity: 1;
+}
+
+.figurinha4{
+  width: 384px;
+  height: 497px;
+  float: left;
+  margin-top: -720px;
+  margin-left: 1484px;
+  background: #444146 0% 0% no-repeat padding-box;
+  box-shadow: 20px -5px 13px #2C2B2B29;
+  border: 1px solid #707070;
+  border-radius: 13px;
+  opacity: 1;
+}
+.nome_personagem{
+  margin-left: 87px;
+  margin-top: 10px;
+  text-align: left;
+  font: normal normal normal 28px/40px MingLiU-ExtB;
+  letter-spacing: 0px;
+  color: #EFEBEB;
+  opacity: 1;
+}
+.nome_personagem2{
+    margin-left: 135px;
+    margin-top: 10px;
+    text-align: left;
+    font: normal normal normal 28px/40px MingLiU-ExtB;
+    letter-spacing: 0px;
+    color: #EFEBEB;
+    opacity: 1;
+}
+
+.nome_personagem3{
+  margin-left: 135px;
+  margin-top: 10px;
+  text-align: left;
+  font: normal normal normal 28px/40px MingLiU-ExtB;
+  letter-spacing: 0px;
+  color: #EFEBEB;
+  opacity: 1;
+}
+
+.nome_personagem4{
+  margin-left: 155px;
+  margin-top: 10px;
+  text-align: left;
+  font: normal normal normal 28px/40px MingLiU-ExtB;
+  letter-spacing: 0px;
+  color: #EFEBEB;
+  opacity: 1;
+}
+
+
+.img_pesonagens img{
+  margin-top:-10px;
+  margin-left: 71px;
+  border-radius: 50%;
+}
+
+.atributos{
+  padding-top:30px;
+  margin-left: -20px;
+  background: none;
+  display: block;
+  margin-right: 210px;
+  text-align: left;
+  font: normal normal normal 22px/30px MingLiU-ExtB;
+  letter-spacing: 0px;
+  color: #EFEBEB;
+  opacity: 1;
+  list-style: none;
+}
+
+.resultado_atributos{
+  background:none;
+  float: right;
+  margin-right: 25px;
+  margin-top: -140px;
+  font: normal normal normal 22px/30px MingLiU-ExtB;
+  letter-spacing: 0px;
+  color: #EFEBEB;
+  opacity: 1;
+  list-style: none;
+}
+/*
+
+
+.figurinha3{
+  float: right;
+  margin-top: -720px;
+  margin-right: 1100px;
+}
+
+
+.figurinha4{
+  float: right;
+  margin-top: -720px;
+  margin-right: 600px;
+}
+
+*/
